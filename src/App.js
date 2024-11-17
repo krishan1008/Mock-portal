@@ -3,12 +3,8 @@ import IndexData from "./pages"
 
 function App(){
     return  (
-
         <>
-        
         <IndexData/>
-        
-        
         </>
     )
 }

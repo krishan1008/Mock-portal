@@ -2,11 +2,7 @@
 
 const IndexData = ()=> {
     return (
-
-
         <>
-        
-
         <div class="wrapper">
             <div class="alert alert_inverse show-alert ">
               <div class="error-icon">
